@@ -1,0 +1,92 @@
+body {
+    color: rgb(255, 0, 0);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOBymLA3CzZNPvi5TlgO-6UidGb1k6KNV5Tw&s);
+    margin-bottom: 400px;
+
+
+}
+
+header {
+    border-bottom: solid 2px rgb(0, 0, 0);
+    padding: 15;
+    font-size: 100px;
+    color: black;
+    background-image: url(https://wallpapers.com/images/hd/police-swat-tank-apms1e3nrjt1lxj3.jpg);
+
+}
+
+.SUS {
+      background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGXZNd4tMhFUzZ-wtsho_3P1RspNhOprZjHQ&s);
+    
+
+}
+
+iframe{
+    margin-top: 65px;
+}
+
+.dois{
+    overflow: auto;
+    gap: 10px;
+    border-radius: 50px;
+}
+
+.um{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 100px;
+    border-radius: 50px;
+    padding-bottom: 100px;
+    background-image: url(https://media.tenor.com/myo9f_1mCzIAAAAM/bope01.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+.segundo{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 100px;
+    border-radius: 50px;
+    padding-bottom: 100px;
+    background-image: url(https://i.makeagif.com/media/7-02-2021/lce949.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+.três{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 100px;
+    border-radius: 50px;
+    padding-bottom: 100px;
+    background-image: url(https://i.makeagif.com/media/7-02-2021/lce949.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+.quatro{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 100px;
+    border-radius: 50px;
+    padding-bottom: 100px;
+    background-image: url();
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+.cinco{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 100px;
+    border-radius: 50px;
+    padding-bottom: 100px;
+    background-image: url(https://i.makeagif.com/media/7-02-2021/lce949.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
